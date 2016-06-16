@@ -1,0 +1,22 @@
+right-bicep  boundary conditions, inverse check, cross check, error condition, performance check
+
+http://gthill.blogspot.sg/2009/12/unit-testing-what-to-test-right-bicep.htmls
+
+Good coding practices
+1. Readable
+2. Maintainable
+3. Legacy code (x)
+'--> Emergent Design s<--.
+ - Cotinuous Refactoring
+ - Test ----------^
+
+Refactoring
+-every test
+-every story
+-every feature
+
+S ingle responsibility
+O pen-closed
+L iskov subsitution
+I nterface segregation
+D ependency inversion

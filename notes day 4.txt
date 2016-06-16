@@ -1,0 +1,22 @@
+New Project
+   |
+   v
+-> PBR/GROOMING  (Dev team should be involve here)
+ x ATDD/Feature file
+Planning	//Customer should not be bothered about stuff below here
+'->Estimate
+'->Sprint backlog
+Dev
+'->Testing - Test Case
+'->Dev - Design, Dev, Unit test, Integration test
+-----------------------------------------------------------------------------------
+
+Design -> TDD
+Code -.
+      -> Parallel
+Test -'
+
+Refactoring
+'-> Coding Standard
+'-> Best Practices
+'-> Design Guidelines
