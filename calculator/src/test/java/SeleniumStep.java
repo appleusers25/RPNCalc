@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import static org.junit.Assert.*;
 import cucumber.api.java.en.Given;

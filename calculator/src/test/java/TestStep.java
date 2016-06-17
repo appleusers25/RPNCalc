@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import static org.junit.Assert.*;
 
@@ -6,7 +6,7 @@ import calculator.Calculator;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 
-public class testStep {
+public class TestStep {
 	
 	private static final double DELTA = 1e-15;
 	
